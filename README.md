@@ -12,7 +12,7 @@ Firstly [OpenAI](https://beta.openai.com/playground) account is open . It also w
 Setting up locally
 1. Clone the repo
 ```{r, engine='bash', count_lines}
-git clone https://github.com/ThantZinPhyo-OP/image-auto-search.git
+git clone https://github.com/ThantZinPhyo11/image-auto-generate.git
 ```
 
 2. Update .env file with specfic keys
